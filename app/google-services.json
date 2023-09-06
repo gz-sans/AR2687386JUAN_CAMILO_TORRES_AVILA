@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109137265846",
+    "project_id": "ar2687386juancamilotorresavila",
+    "storage_bucket": "ar2687386juancamilotorresavila.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109137265846:android:cfc6bda2996d69d9fe1217",
+        "android_client_info": {
+          "package_name": "com.example.ar2687386juan_camilo_torres_avila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109137265846-2f8togkrg70b52bdpoiohqbttpu6tu6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkZoseJ4JvuALyiMQBZro3RmqbC__jWFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109137265846-2f8togkrg70b52bdpoiohqbttpu6tu6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
